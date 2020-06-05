@@ -4,6 +4,7 @@ import Link from "next/link";
 const Impressum = () => (
   <div>
     <Head>
+      <meta name="googlebot" content="noindex" />
       <title>Aust Umzüge und Haushaltsauflösungen</title>
       <meta
         name="description"

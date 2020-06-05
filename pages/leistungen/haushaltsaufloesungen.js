@@ -43,14 +43,14 @@ const Haushaltsaufloesungen = () => (
       <br />
       <br />
       <br />
-      <h2>Professionelle Haushalstauflösungen in Hildesheim und Umgebung</h2>
+      <h2>Professionelle Haushalstauflösungen in Hannover und Umgebung</h2>
       <br />
       <br />
       <p>
-        Sie benötigen Hilfe bei einer Haushaltsauflösung in Hildesheim? Dann
-        sind Sie hier bei Aust Umzüge genau an der richtigen Adresse! Denn als
-        professionelles Umzugsunternehmen aus Hildesheim kümmern wir uns nicht
-        nur um Umzüge und der Gleichen sondern führen auch Haushaltsauflösungen
+        Sie benötigen Hilfe bei einer Haushaltsauflösung in Hannover? Dann sind
+        Sie hier bei Aust Umzüge genau an der richtigen Adresse! Denn als
+        professionelles Umzugsunternehmen aus Hannover kümmern wir uns nicht nur
+        um Umzüge und der Gleichen sondern führen auch Haushaltsauflösungen
         jeder Art durch. Haushaltsauflösungen sind oft emotional, denn sie
         finden meistens unfreiwillig statt und an allen Gegenständen in einer
         Wohnung oder einem Haus hängt eine Geschichte. Zudem ist die Auflösung

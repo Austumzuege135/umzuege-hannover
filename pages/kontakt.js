@@ -5,6 +5,7 @@ const Kontakt = () => (
   <div>
     <Head>
       <title>
+        <meta name="googlebot" content="noindex" />
         Hier kontaktieren Sie Ihr professionelles Umzugsunternehmen bei etwaigen
         Fragen.
       </title>

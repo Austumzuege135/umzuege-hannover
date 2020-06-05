@@ -50,9 +50,9 @@ const Umzugsberatung = () => (
         uns die Zeit und beantworten Ihnen alle Fragen, die im Zusammenhang mit
         Ihrem Umzug stehen und bieten Ihnen Hilfestellungen, damit Ihr Umzug
         erfolgreich verläuft – ohne Zwischenfälle. Denn wir sind eine erfahrene
-        Umzugsfirma aus Hildesheim, die weiß worauf es bei einem Umzug ankommt
-        und was beachtet werden sollte. Wir realisieren nicht nur Umzüge aller
-        Art zum günstigen Preis, sondern bieten Ihnen auch eine professionelle
+        Umzugsfirma aus Hannover, die weiß worauf es bei einem Umzug ankommt und
+        was beachtet werden sollte. Wir realisieren nicht nur Umzüge aller Art
+        zum günstigen Preis, sondern bieten Ihnen auch eine professionelle
         Umzugsberatung. Kontaktieren Sie uns jederzeit. Wir bieten Ihnen einen
         erstklassigen Umzugsservice und professionelle Umzugsberatungen.
       </p>
@@ -60,7 +60,7 @@ const Umzugsberatung = () => (
       <br />
       <br />
       <br />
-      <h3>Wir unterstützen Sie bei Ihrem Umzug in Hildesheim</h3>
+      <h3>Wir unterstützen Sie bei Ihrem Umzug in Hannover</h3>
       <br />
       <br />
       <p>
@@ -88,7 +88,7 @@ const Umzugsberatung = () => (
         telefonisch oder per E-Mail und wir vereinbaren einen Termin für eine
         kostenlose Umzugsberatung. Wir geben Ihnen nützliche Tipps und
         Hilfestellung. Auf Wunsch erhalten Sie auch ein unverbindliches Angebot
-        für Ihren Umzug in Hildesheim und der Region. Ganz gleich, ob es sich
+        für Ihren Umzug in Hannover und der Region. Ganz gleich, ob es sich
         dabei um einen Privatumzug oder Firmenumzug handelt, von uns erhalten
         Sie eine kompetente Beratung und faire Preise. Wir von Aust Umzüge
         freuen uns auf Ihren Kontakt!

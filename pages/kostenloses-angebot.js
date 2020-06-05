@@ -5,6 +5,7 @@ const Kostenloses_Angebot = () => (
   <div>
     <Head>
       <title>
+        <meta name="googlebot" content="noindex" />
         Sie benötigen ein Angebot für Ihren Umzug oder andere Dienstleistungen
         rund um das Thema Möbel? Holen Sie es sich hier kostenlos!
       </title>
