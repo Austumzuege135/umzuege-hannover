@@ -4,8 +4,8 @@ import Link from "next/link";
 const Kontakt = () => (
   <div>
     <Head>
+      <meta name="googlebot" content="noindex" />
       <title>
-        <meta name="googlebot" content="noindex" />
         Hier kontaktieren Sie Ihr professionelles Umzugsunternehmen bei etwaigen
         Fragen.
       </title>
